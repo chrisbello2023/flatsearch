@@ -1,17 +1,8 @@
-# Flathunter
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat)](https://github.com/RichardLitt/standard-readme)
-[![Lint Code Base](https://github.com/flathunters/flathunter/actions/workflows/linter.yml/badge.svg)](https://github.com/flathunters/flathunter/actions/workflows/linter.yml)
-[![Tests](https://github.com/flathunters/flathunter/actions/workflows/tests.yml/badge.svg)](https://github.com/flathunters/flathunter/actions/workflows/tests.yml)
-[![codecov](https://codecov.io/gh/flathunters/flathunter/branch/master/graph/badge.svg)](https://codecov.io/gh/flathunters/flathunter)
-
-A bot to help people with their rental real-estate search. 🏠🤖
-
-## Flathunter will not solve your problem
+# Flatsearch A bot to help people with their rental real-estate search. 🏠🤖
 
 The rents are too high - you can't find a flat at a reasonable price in a place you actually want to live. Too many people apply for the good flats - you need to get apply very quickly to have any chance of getting a place. A bot seems like a good solution to this, but it's really just making things worse.
 
-Use this bot to help with your flatsearch - it's a much better use of your time and resources than hitting refresh on a property portal every five minutes. Once you found a place for yourself, consider supporting alternatives like the [Mietshäusersyndikat](https://www.syndikat.org/en/the-joint-venture/). The MHS projects (like [the one I live in](https://teichwiesel.de/unterstuetzen/)) are always [looking for funding](https://www.syndikat.org/en/funding/) in the form of interest-bearing loans from individuals. If you have some thousand euros sitting around on your bank account, you can improve the housing situation in Germany and earn some interest on your savings by [lending cash](https://www.syndikat.org/en/direct-loans/) to one of the projects for a year or two.
+Use this bot to help with your flatsearch - it's a much better use of your time and resources than hitting refresh on a property portal every five minutes. Once you found a place for yourself, 
 
 ## If you are not a Python developer / power-user
 
@@ -377,18 +368,6 @@ This project is maintained by the members of the [Flat Hunters](https://github.c
 
 The original code was contributed by [@NodyHub](https://github.com/NodyHub), whose original idea this project was.
 
-### Contributers
 
-Other contributions were made along the way by:
-
-- Bene
-- [@tschuehly](https://github.com/tschuehly)
-- [@Cugu](https://github.com/Cugu)
-- [@GerRudi](https://github.com/GerRudi)
-- [@xMordax](https://github.com/xMordax)
-- [@codders](https://github.com/codders)
-- [@alexanderroidl](https://github.com/alexanderroidl)
-
-## Contributing
 
 If you want to make a contribution, please check out the contributor code of conduct ([EN 🇬🇧](CODE_OF_CONDUCT.en.md)/[DE 🇩🇪](CODE_OF_CONDUCT.de.md)) first. Pull requests are very welcome, as are [issues](https://github.com/flathunters/flathunter/issues). If you file an issue, please include as much information as possible about how to reproduce the issue.
